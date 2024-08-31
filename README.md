@@ -10,8 +10,7 @@
 
 
 ### Descripción
-El presente repositorio contiene la configuración inicial de un proyecto de **API REST** en **Docker**.
-
+El presente repositorio es la configuración inicial para un entorno de desarrollo de una API REST utilizando Docker.
 
 ### Contenido
 El contenido de este proyecto incluye los siguientes componentes:
